@@ -20,11 +20,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94786746412']
-global.premium = ['94786746412']
-global.ownernomer = '94786746412'
-global.ownername = 'Ishan Sandeepa'
-global.botname = 'I Am 💝❄D͎A͎R͎K͎ I̟S̟H̟U̟ ❄️💝'
+global.owner = ['94752521338']
+global.premium = ['94752521338']
+global.ownernomer = '94752521338'
+global.ownername = 'ꪶꫂ𝔸ℂℍ𝕀ℕ𝕋ℍ𝔸ꪶꫂ ࿐'
+global.botname = 'I Am 💝❄ₐCₕᵢₙₜₕₐ ❄️💝'
 global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢.'
 global.ig = 'Ishan Sandeepa'
 global.region = 'Sri Lanka'
